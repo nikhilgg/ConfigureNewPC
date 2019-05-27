@@ -1,0 +1,27 @@
+# browsers
+googlechrome 
+firefox
+#
+# Text editors / IDEs
+atom
+notepadplusplus
+#
+# logger
+wireshark
+#
+# Version Control
+git
+svn
+tortoisesvn
+#
+# collab
+microsoft-teams
+powerbi
+#
+# prog-lang
+python
+curl
+openssh
+#
+# RDP
+mremoteng
