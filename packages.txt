@@ -5,6 +5,7 @@ firefox
 # Text editors / IDEs
 atom
 notepadplusplus
+winmerge
 #
 # logger
 wireshark
@@ -25,3 +26,5 @@ openssh
 #
 # RDP
 mremoteng
+rsat
+winscp
